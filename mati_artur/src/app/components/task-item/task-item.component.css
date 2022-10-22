@@ -14,12 +14,3 @@
   align-items: center;
   justify-content: space-between;
 }
-
-.x {
-  background-color: red;
-  padding: 5px 10px 5px 10px;
-  color: white;
-  font-size: 15px;
-  border: none;
-  border-radius: 20px;
-}
